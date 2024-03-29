@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0d0a01;
+  color: white;
+}
+h1 {
+  font-family: "heroeau";
+  word-spacing: normal;
+  text-align: center;
+  margin-top: 2rem;
+}
+nav li {
+  font-size: 2rem;
+}
+
+@font-face {
+  font-family: "heroeau";
+  src: url("../Fonts/auralyess-font/AuralyessFreeTrial-RpMrE.ttf");
+}
