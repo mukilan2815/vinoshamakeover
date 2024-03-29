@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Vinosha Makeover - Best Makeup Artist in Coimbatore, Tamil Nadu",
   description:
-    "Experience the artistry of Vinosha, your go-to makeup artist in Coimbatore! Known for her signature touch of minimal magic, Vinosha specializes in enhancing your natural beauty with expert makeup techniques and stunning hairstyles. Whether it's for weddings, special events, or photo shoots, trust Vinosha to create a flawless look that reflects your unique style and personality.",
+    "One of the best makeover in coimbatore with services like bridal makeup, party makeup, hair styling, saree draping and more. Book now for a makeover in Coimbatore. located in podanur, Coimbatore, Tamil Nadu, India. we have experienced makeup artist.we are the best makeover in coimbatore. we are the best bridal makeup artist in coimbatore. we are the best party makeup artist in coimbatore. we are the best hair styling artist in coimbatore. we are the best saree draping artist in coimbatore. we are the best makeover in podanur. we are the best bridal makeup artist in podanur. we are the best party makeup artist in podanur. we are the best hair styling artist in podanur. we are the best saree draping artist in podanur. we are the best makeover in tamilnadu. we are the best bridal makeup artist in tamilnadu. we are the best party makeup artist in tamilnadu. we are the best hair styling artist in tamilnadu. we are the best saree draping artist in tamilnadu.",
   keywords:
     "makeup artist, makeover, bridal makeup, party makeup, hair styling, saree draping,makeover in coimbatore, makeover in podanur, makeover in tamilnadu, Coimbatore, Tamil Nadu, India",
 };
